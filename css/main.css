@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+
+.wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+body {
+  background-color: #00AE7A;
+  font-family: Muli, sans-serif;
+}
+
+h1 {
+  font-style: normal;
+  font-size: 3.75em;
+}
+
+li {
+  list-style-type: none;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
+.search {
+  margin-top: 3%;
+}
